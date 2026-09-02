@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: Auto Whisper Reply
+## Notes: Automatically replies to incoming whispers with a custom message.
+## Author: Cosmic Server
+## Version: 1.0.0
+## SavedVariablesPerCharacter: AutoWhisperReplyDB
+
+AutoWhisperReply.lua
